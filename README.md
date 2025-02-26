@@ -1,7 +1,6 @@
 # 💸 Payments App
 
-Welcome to the **Payments App**! 🎉 This project provides a secure platform for transferring money and managing user accounts 
-🔗 **[Try the Deployed Project](https://paytm-frontend-swart.vercel.app/)**
+Welcome to the **Payments App**!
 
 ---
 
