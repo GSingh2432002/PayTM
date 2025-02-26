@@ -42,7 +42,7 @@ Make sure you have the following installed:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/NehaKanabar/Paytm.git
+   git clone https://github.com/GSingh2432002/PayTM.git
    git Paytm
    ```
 
@@ -59,23 +59,3 @@ Make sure you have the following installed:
    cd ../frontend
    npm install
    ```
-
-## 🤝 Contributing
-
-Contributions are **always welcome**! If you have any suggestions, ideas, or find a bug , feel free to:
-
-- Open an issue
-- Submit a pull request
-
-Let's make this app even better together! 💪
-
----
-
-## 📬 Contact
-
-Got questions? Need help? Feel free to reach out! 💌  
-You can contact me via [nehakanabar99@gmail.com](mailto:nehakanabar99@gmail.com).
-
----
-
-### 🎉 **Thank You** for visiting the Payments App! 🌟 Enjoy a seamless payment experience! 💸
