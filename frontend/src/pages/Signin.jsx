@@ -39,12 +39,12 @@ export const Signin = () => {
                     <SubHeading label={"Enter your credentials to access your account"} />
                     <InputBox 
                         onChange={e => setUsername(e.target.value)} 
-                        placeholder="nehakanabar99@gmail.com" 
+                        placeholder="gsingh332211@gmail.com" 
                         label={"Email"} 
                     />
                     <InputBox 
                         onChange={e => setPassword(e.target.value)} 
-                        placeholder="neha123" 
+                        placeholder="Gks123" 
                         label={"Password"} 
                     />
                     <div className="pt-4">

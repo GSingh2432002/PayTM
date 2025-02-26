@@ -41,10 +41,10 @@ export const Signup = () => {
                 <div className="rounded-lg bg-white w-80 text-center p-2 h-max px-4">
                     <Heading label={"Sign up"} />
                     <SubHeading label={"Enter your credentials to create an account"} />
-                    <InputBox onChange={e => setFirstName(e.target.value)} placeholder="Neha" label={"First Name"} />
-                    <InputBox onChange={e => setLastName(e.target.value)} placeholder="Kanabar" label={"Last Name"} />
-                    <InputBox onChange={e => setUsername(e.target.value)} placeholder="nehakanabar99@gmail.com" label={"Email"} />
-                    <InputBox onChange={e => setPassword(e.target.value)} placeholder="neha123" label={"Password"} />
+                    <InputBox onChange={e => setFirstName(e.target.value)} placeholder="Gaurav" label={"First Name"} />
+                    <InputBox onChange={e => setLastName(e.target.value)} placeholder="Singh" label={"Last Name"} />
+                    <InputBox onChange={e => setUsername(e.target.value)} placeholder="gsingh332211@gmail.com" label={"Email"} />
+                    <InputBox onChange={e => setPassword(e.target.value)} placeholder="Gks123" label={"Password"} />
                     <div className="pt-4">
                         <Button onClick={handleSignup} label={"Sign up"} />
                     </div>

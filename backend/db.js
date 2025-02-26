@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-mongoose.connect("mongodb+srv://Admin:neha123@cluster0.tzfr4.mongodb.net/paytm");
+mongoose.connect("mongodb+srv://gsingh332211:SXPS5nk7CdanF9tl@cluster0.ui0bd.mongodb.net/PayTMBackend");
 
 
 // Create a Schema for Users
